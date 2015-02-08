@@ -1,5 +1,5 @@
 # pcsensor
-アマゾンで買えるUSB温度計 pcsensor.cをすこし変更したよ。
+アマゾンで買えるUSB温度計 [here](http://www.amazon.co.jp/dp/B004FI1570) のドライバ pcsensor.cをすこし変更したよ。
 Xeon鯖のXCIからアクセスするとETIMEOUTが発生しまくってたので変更。
 でもまだタイムアウトするけどね。
 

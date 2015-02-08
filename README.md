@@ -6,8 +6,10 @@
 
 Downloaded from [here](http://www.isp-sl.com/pcsensor-1.0.1.tgz)
 as seen on [Google+](https://plus.google.com/105569853186899442987/posts/N9T7xAjEtyF).
-[here](http://blog.osakana.net/archives/3785)
-[here](http://momtchil.momtchev.com/node/6)
+
+and [here](http://blog.osakana.net/archives/3785).
+
+and [here](http://momtchil.momtchev.com/node/6).
 
 # LICENSE
 

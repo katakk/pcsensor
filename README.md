@@ -1,6 +1,11 @@
 # pcsensor
-アマゾンで買えるUSB温度計 pcsensor.c
-ライセンスは、4-clause BSD licenseだと思うよ。原文は下記山椒
+アマゾンで買えるUSB温度計 pcsensor.cをすこし変更したよ。
+Xeon鯖のXCIからアクセスするとETIMEOUTが発生しまくってたので変更。
+でもまだタイムアウトするけどね。
+
+ライセンスは、4-clause BSD licenseだと思うよ。
+原文は下記山椒。
+
 
 # ORIGIN
 

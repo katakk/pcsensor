@@ -4,5 +4,7 @@ compiler:
   - gcc
 script:
     make
-#.travis.yml
-
+addons:
+  apt:
+    packages:
+    - libusb-dev

@@ -3,7 +3,9 @@ compiler:
   - clang
   - gcc
 script:
-    make
+  - make
+  - ./pcsensor
+  - gcov pcsensor.c
 addons:
   apt:
     packages:

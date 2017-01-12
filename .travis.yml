@@ -4,8 +4,6 @@ compiler:
   - gcc
 script:
   - make
-  - ./pcsensor
-  - gcov pcsensor.c
 addons:
   apt:
     packages:

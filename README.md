@@ -1,7 +1,10 @@
-# pcsensor [![Build Status](https://travis-ci.org/katakk/pcsensor.svg?branch=master)](https://travis-ci.org/katakk/pcsensor) [![codecov.io](https://codecov.io/github/katakk/pcsensor/coverage.svg?branch=master)](https://codecov.io/github/katakk/pcsensor?branch=master)
+# pcsensor [![Build Status](https://travis-ci.org/katakk/pcsensor.svg?branch=master)](https://travis-ci.org/katakk/pcsensor) [![codecov.io](https://codecov.io/github/katakk/pcsensor/coverage.svg?branch=master)](https://codecov.io/github/katakk/pcsensor?branch=master) [![coverity](https://scan.coverity.com/projects/11539/badge.svg)](https://scan.coverity.com/projects/katakk-pcsensor)
 
 アマゾンで買えるUSB温度計 [here](http://www.amazon.co.jp/dp/B004FI1570) のドライバ pcsensor.cをすこし変更したよ。
+
+
 Xeon鯖のXCIからアクセスするとETIMEOUTが発生しまくってたので変更。
+
 でもまだタイムアウトするけどね。
 
 ライセンスは、4-clause BSD licenseだと思うよ。

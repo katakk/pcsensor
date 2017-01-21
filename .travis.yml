@@ -19,14 +19,12 @@ addons:
       description: "Build submitted via Travis CI"
     build_command:   "make"
     branch_pattern: master
-    
-script:
-  - make
-
-addons:
   apt:
     packages:
     - libusb-dev
+
+script:
+  - make
 
 after_success:
     bash <(curl -s https://codecov.io/bash)
